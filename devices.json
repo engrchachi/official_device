@@ -1,0 +1,16 @@
+[
+   {
+      "name":"Mi 4i",
+      "brand":"Xiaomi",
+      "codename":"ferrari",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Alif Fathur(darkthur)",
+            "maintainer_url":"https://facebook.com/rev31one",
+            "xda_thread":""
+         }
+      ]
+   }
+]
