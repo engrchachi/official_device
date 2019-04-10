@@ -17,7 +17,7 @@ Before you open a pull request to add your device into our list of official devi
 
 1.6 - You should have your device sources open for us take a look.
 
-1.7 - You mustn't be a placeholder of another maintainer that was removed. The pull request that are considered of that kind won't be accepted.
+1.7 - After all ready. Send an requestion to dev.aosplime@gmail.com. Read [This for format](https://github.com/AospLime/riddim/blob/master/templates/pushofficial.md)
 
 ### 2. Maintainers conduct notes:
 
