@@ -12,5 +12,19 @@
             "xda_thread":""
          }
       ]
+   },
+   {
+      "name":"Mi 8",
+      "brand":"Xiaomi",
+      "codename":"dipper",
+      "supported_versions":[
+         {
+            "version_code":"pie",
+            "version_name":"Pie",
+            "maintainer_name":"Chachi Desuasido(engr.chachi)",
+            "maintainer_url":"https://facebook.com/chachinito",
+            "xda_thread":""
+         }
+      ]
    }
 ]
